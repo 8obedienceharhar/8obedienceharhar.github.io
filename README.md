@@ -1,6 +1,6 @@
-# 8obedienceharhar.github.io
+### 8obedienceharhar.github.io
 ## group project in computer 8
-#made by nep
+# made by nep
 
 
 ako lang
